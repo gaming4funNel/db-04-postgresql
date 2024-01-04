@@ -94,7 +94,7 @@ DROP TABLE orders;
 
 Как бы вы доработали бэкап-файл, чтобы добавить уникальность значения столбца `title` для таблиц `test_database`?
 
-Необходимо дрбавить в бекап test_database.sql следующее
+Необходимо добавить в бекап test_database.sql следующее
 
 ```
 CREATE TABLE test_database (
